@@ -67,6 +67,11 @@ Formatação para capa
 	color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+	background: rgba(1,1,1,0.2);
+}
+
 /*
 	formatação de estruturas 
 */
